@@ -1,0 +1,95 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {}
+    },
+    "layer_presets": []
+  },
+  "boards": [],
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    },
+    "pin_map": [
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ],
+      [ null, null, null, null, null, null, null, null, null, null, null, null ]
+    ],
+    "rules": []
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "indicator_panel.kicad_pro",
+    "version": 2
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_width": 0.25,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "soldermask_ratio": -0.1,
+        "trace_clearance": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 0.25
+      }
+    ],
+    "meta": {
+      "version": 3
+    },
+    "net_colors": null,
+    "nets": []
+  },
+  "page_layout_descr_file": "",
+  "plot_params": {
+    "dark_mode": true
+  },
+  "pcbnew": {
+    "last_paths": {
+      "gencad": "",
+      "idf": "",
+      "netlist": "",
+      "plot": "",
+      "pos_files": "",
+      "specctra_dsn": "",
+      "step": "",
+      "svg": ""
+    },
+    "page_layout_descr_file": ""
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "drawing sheet filename": "",
+    "page_layout_descr_file": "",
+    "plot_params": {
+      "dark_mode": true
+    },
+    "subpart_id_separator": 46,
+    "subpart_first_id": 65
+  },
+  "sheets": [],
+  "text_variables": {}
+}
