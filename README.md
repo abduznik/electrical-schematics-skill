@@ -1,3 +1,13 @@
+
+## Support This Project
+
+> **All projects made with passion** 💙
+
+Your support helps us continue developing and maintaining these projects. Consider sponsoring to help keep them alive!
+
+<iframe src="https://github.com/sponsors/abduznik/card" title="Sponsor abduznik" height="225" width="600" style="border: 0;"></iframe>
+
+
 # Electrical / KiCad Schematic Skill
 
 A battle-hardened Hermes Agent skill for **generating KiCad 7/8 `.kicad_sch` schematics programmatically from Python**, plus an SVG-based schematic renderer for quick visual output.
